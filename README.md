@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**juanjobogad0/juanjobogad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+ 
+
+**Technologies**
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+<!-- wi*quL3fcV -->
+
+**Web/Full Stack projects**
+
+--STAND BY--
+
+
+
