@@ -21,5 +21,11 @@
 
 --STAND BY--
 
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=juanjobogad0&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/juanjobogad0)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=juanjobogad0&theme=material-palenight)](https://github.com/juanjobogad0)
+</div>
+
 
 
