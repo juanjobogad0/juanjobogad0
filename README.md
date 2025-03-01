@@ -23,10 +23,11 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=juanjobogad0&show_icons=true&theme=dark)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=juanjobogad0&theme=dark)](https://github.com/juanjobogad0)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanjobogad0&show_icons=true&theme=dark)](https://github.com/juanjobogad0)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanjobogad0&theme=dark)](https://github.com/juanjobogad0)
 
 </div>
+
 
 
 
