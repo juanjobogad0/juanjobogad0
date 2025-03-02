@@ -2,10 +2,10 @@
 
 **Languages**
 
-
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=white)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
 
  
 
