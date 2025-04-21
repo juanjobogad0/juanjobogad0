@@ -19,9 +19,9 @@
 
 <!-- wi*quL3fcV -->
 
-**Web/Full Stack projects**
+**Projects**
 
---STAND BY--
+https://juanbogado.dev/#projects
 
 <h2>Github stats:</h2> 
 
