@@ -3,6 +3,7 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=white)
 
